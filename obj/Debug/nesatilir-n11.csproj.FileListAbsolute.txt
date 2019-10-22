@@ -1,0 +1,15 @@
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\bin\Debug\nesatilir-n11.exe.config
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\bin\Debug\nesatilir-n11.exe
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\bin\Debug\nesatilir-n11.pdb
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir-n11.csprojAssemblyReference.cache
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir_n11.Form1.resources
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir_n11.Properties.Resources.resources
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir-n11.csproj.GenerateResource.cache
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir-n11.csproj.CoreCompileInputs.cache
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir-n11.exe
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir-n11.pdb
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\bin\Debug\HtmlAgilityPack.dll
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\bin\Debug\HtmlAgilityPack.xml
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir_n11.Form2.resources
+C:\Users\emrea\source\repos\nesatilir-n11\nesatilir-n11\obj\Debug\nesatilir-n11.csproj.CopyComplete
